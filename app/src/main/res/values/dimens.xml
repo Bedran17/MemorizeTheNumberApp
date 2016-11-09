@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="level1_left">20dp</dimen>
+    <dimen name="level1_top">80dp</dimen>
+    <dimen name="level1_right">20dp</dimen>
+    <dimen name="level1_width">115dp</dimen>
+    <dimen name="level1_height">115dp</dimen>
+    <dimen name="level1_textsize">30dp</dimen>
+
+    <dimen name="level2_width">105dp</dimen>
+    <dimen name="level2_height">105dp</dimen>
+    <dimen name="level2_textsize">25dp</dimen>
+
+    <dimen name="level1_result_width">50dp</dimen>
+    <dimen name="level1_result_height">50dp</dimen>
+
+    <dimen name="level2_result_width">40dp</dimen>
+    <dimen name="level2_result_height">40dp</dimen>
+
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="140dp"
+        android:background="@color/levels"
+        android:layout_marginTop="60dp"
+        android:text="@string/level1"
+        android:textColor="@color/white"
+        android:id="@+id/start_level1_button"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="140dp"
+        android:background="@color/levels"
+        android:text="@string/level2"
+        android:textColor="@color/white"
+        android:id="@+id/start_level2_button"
+        android:layout_above="@+id/back_button"
+        android:layout_alignLeft="@+id/start_level1_button"
+        android:layout_alignStart="@+id/start_level1_button"
+        android:layout_marginBottom="68dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="75dp"
+        android:background="@color/back"
+        android:text="@string/back"
+        android:textColor="@color/white"
+        android:id="@+id/back_button"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>

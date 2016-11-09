@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">Memorize The Number</string>
+    <string name="einleitung">How good is your memory? Can you memorize all the numbers? Test your short memory by playing this game!</string>
+    <string name="guide_titel">Guide:</string>
+    <string name="guide_1">1: Level 1 contains 9 Buttons filled with numbers to memorize</string>
+    <string name="guide_2">2: Level 2 contains 12 Buttons</string>
+    <string name="guide_3">3: To regenerate the numbers just shake your phone</string>
+    <string name="guide_4">4: Your goal is to tap the 9/12 Buttons in the right order (1 - 9 / 1 - 12) after they are hidden</string>
+    <string name="start">START</string>
+    <string name="level1">Level 1</string>
+    <string name="level2">Level 2</string>
+    <string name="back">BACK</string>
+    <string name="check">CHECK</string>
+
+    <string name="zahl1">1</string>
+    <string name="zahl2">2</string>
+    <string name="zahl3">3</string>
+    <string name="zahl4">4</string>
+    <string name="zahl5">5</string>
+    <string name="zahl6">6</string>
+    <string name="zahl7">7</string>
+    <string name="zahl8">8</string>
+    <string name="zahl9">9</string>
+
+    <string name="your_answer">Your answer:</string>
+    <string name="right_answer">Right answer:</string>
+
+    <string name="winner">Congratulations! You won! :)</string>
+    <string name="loser">Unfortunately there are some differences :(</string>
+
+</resources>

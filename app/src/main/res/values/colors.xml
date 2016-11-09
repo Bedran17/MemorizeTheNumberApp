@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="start">#ADCB13</color>
+    <color name="white">#FFFFFF</color>
+    <color name="back">#FE6B35</color>
+    <color name="levels">#636365</color>
+    <color name="check">#41A8F5</color>
+
+</resources>
